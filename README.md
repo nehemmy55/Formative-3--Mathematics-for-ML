@@ -1,36 +1,123 @@
-# Formative-3--Mathematics-for-ML
+📘 README – Group Assignment (Google Colab Version)
+📌 Project Overview
 
-GROUP CONTRIBUTION TRACKER – POLISHED DOCUMENT
-Group Members & Assigned Parts
-• Nehemie – Part 1: Probability Distributions
-- Implemented bivariate normal distribution from scratch.
-- Computed mean vector, covariance matrix, determinant, and exponential term.
-- Calculated PDF for each data point.
-- Produced Contour and 3D Matplotlib visualizations.
-• Larissa – Part 2: Bayesian Probability
-- Selected positive and negative sentiment keywords.
-- Computed prior probabilities, marginals, and likelihoods.
-- Helped prepare markdown tables.
-• Jolly – Part 2: Bayesian Probability Implementation
-- Loaded and cleaned IMDb dataset using pandas.
-- Implemented Bayes’ theorem calculations using Python.
-- Generated probability tables for each keyword.
-• All Members – Part 3: Manual Gradient Descent
-- Each member performed one manual update step of gradient descent.
-- Calculated predicted values, gradients, and updated m and b.
-- All handwritten calculations prepared for submission.
-- Observed that m and b move toward reducing error across iterations.
-• Shoga – Part 4: Gradient Descent in Code
-- Implemented gradient descent update steps using SciPy.
-- Created visualizations showing parameter changes and error reduction.
-- Used clear, modular Python code following DRY principles.
-Summary of Responsibilities
-• Part 1: Nehemie
-• Part 2: Larissa & Jolly
-• Part 3: Entire Group
-• Part 4: Shoga
-Submission Package Includes:
-• GitHub repository and/or Jupyter Notebook
-• PDF of handwritten manual gradient descent calculations
-• This Contribution Tracker PDF
-• Visualizations and tables from all sections
+This project was completed using Google Colab and covers:
+
+Probability Distributions (Part 1)
+
+Bayesian Probability (Part 2)
+
+Manual Gradient Descent (Part 3)
+
+Gradient Descent in Code using SciPy (Part 4)
+
+All work — code, plots, markdown explanations, and outputs — is contained in the Colab notebook.
+
+👥 Group Members & Contributions
+Nehemie – Part 1: Probability Distributions
+
+Implemented bivariate normal distribution from scratch (no statistical libraries).
+
+Computed mean vector, covariance matrix, determinant, and matrix inverse.
+
+Calculated PDF values for dataset points.
+
+Created Contour Plot and 3D Surface Plot using Matplotlib.
+
+Larissa – Part 2: Bayesian Probability
+
+Selected positive & negative sentiment keywords.
+
+Calculated prior probability and marginal probability.
+
+Explained keyword choice and probability meaning.
+
+Jolly – Part 2: Probability Computation
+
+Loaded IMDb dataset into Colab using pandas.
+
+Counted keyword appearances and computed conditional probabilities.
+
+Implemented Bayes’ Theorem manually in Python.
+
+Created markdown probability tables inside Colab.
+
+Whole Group – Part 3: Manual Gradient Descent
+
+Each member performed one manual iteration in the notebook.
+
+Computed predictions, gradients (dm, db), and updates for m and b.
+
+Inserted handwritten calculation images into Colab.
+
+Explained how m and b trend toward reducing error.
+
+Shoga – Part 4: Gradient Descent in Code
+
+Converted manual update rules into full Python implementation inside Colab.
+
+Used SciPy for structured gradient descent.
+
+Plotted:
+
+m & b over iterations
+
+Error over iterations
+
+Ensured all steps are clearly shown (no abstraction).
+
+📂 Notebook Structure
+
+The Google Colab notebook is organized into sections:
+
+Imports & Setup
+
+Part 1: Probability Distributions
+
+Part 2: Bayesian Probability
+
+Part 3: Manual Gradient Descent
+
+Part 4: Gradient Descent in SciPy
+
+Conclusion + Contribution Summary
+
+Each section includes:
+
+Code cells
+
+Explanations
+
+Outputs (plots, tables, calculations)
+
+▶️ How to Run in Colab
+
+Open the notebook in Google Colab
+
+Upload any required datasets to the Colab environment
+
+Run all cells sequentially using:
+Runtime → Run all
+
+All plots and results will appear automatically
+
+🔧 Tools Used
+
+Google Colab
+
+Python
+
+NumPy
+
+Pandas
+
+Matplotlib
+
+SciPy
+
+📑 Included in Submission
+
+✔ Google Colab Notebook (Main Work)
+✔ Contribution Tracker PDF
+✔ Handwritten Manual Gradient Descent PDF
+✔ Visualizations and probability tables
