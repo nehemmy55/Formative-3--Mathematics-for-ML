@@ -1,5 +1,5 @@
-📘 README – Group Assignment (Google Colab Version)
-📌 Project Overview
+##  README – Group Assignment
+####  Project Overview
 
 This project was completed using Google Colab and covers:
 
@@ -12,8 +12,7 @@ Manual Gradient Descent (Part 3)
 Gradient Descent in Code using SciPy (Part 4)
 
 All work — code, plots, markdown explanations, and outputs — is contained in the Colab notebook.
-
-👥 Group Members & Contributions
+### Group Members & Contributions
 Nehemie – Part 1: Probability Distributions
 
 Implemented bivariate normal distribution from scratch (no statistical libraries).
@@ -66,7 +65,7 @@ Error over iterations
 
 Ensured all steps are clearly shown (no abstraction).
 
-📂 Notebook Structure
+### Notebook Structure
 
 The Google Colab notebook is organized into sections:
 
@@ -90,7 +89,7 @@ Explanations
 
 Outputs (plots, tables, calculations)
 
-▶️ How to Run in Colab
+### How to Run in Colab
 
 Open the notebook in Google Colab
 
@@ -101,7 +100,7 @@ Runtime → Run all
 
 All plots and results will appear automatically
 
-🔧 Tools Used
+### Tools Used
 
 Google Colab
 
@@ -115,7 +114,7 @@ Matplotlib
 
 SciPy
 
-📑 Included in Submission
+#### Included in Submission
 
 ✔ Google Colab Notebook (Main Work)
 ✔ Contribution Tracker PDF
